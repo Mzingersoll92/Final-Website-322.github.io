@@ -1,0 +1,21 @@
+html {
+  font-family: arial, sans-serif;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 10%;
+}
+h1 {
+  font-size: 2em;
+  margin: 0.20em;
+}
+h2 {
+    font-size: 1.1em;
+    margin: 0.70em;
+}
+h3 {
+    font-size:0.9em;
+    margin: 0.90em;
+}
