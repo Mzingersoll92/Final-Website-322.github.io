@@ -19,11 +19,9 @@ h3 {
     font-size:0.9em;
     margin: 0.90em;
 }
-logo {
-	height: 10em;
-	width: 100em;
-	border: 2px solid black;
-	border-radius: 5px;
-	display: inline-block;
-	
+img {
+	height: 170px;
+	width: 170px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+
 }
